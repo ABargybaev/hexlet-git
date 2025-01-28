@@ -1,1 +1,1 @@
-Haskell Curry
+Azamat Bargybaev
